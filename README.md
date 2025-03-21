@@ -5,3 +5,5 @@ This single-page website was developed using HTML, CSS, Bootstrap, and JavaScrip
 The content focuses on the mentor’s 15+ years of experience in holistic health and personal growth, offering personalized strategies to help clients achieve confidence, reduce pain, and unlock their potential. The website reflects a serene and supportive environment, aligning with the mentor’s mission to empower individuals to embrace their fullest selves.
 
 As the developer, I ensured the site was visually appealing, user-friendly, and optimized for all devices. This project highlights my skills in front-end development and creating meaningful digital experiences.
+
+Live URL: https://demo.pixellmedia.in/inas/
