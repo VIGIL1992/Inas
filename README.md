@@ -1,4 +1,4 @@
-Project: INAS - Transformational Healing Mentor Website
+# Project: INAS - Transformational Healing Mentor Website
 
 This single-page website was developed using HTML, CSS, Bootstrap, and JavaScript to showcase the services of a transformational healing mentor. The site features a responsive design, smooth scrolling, and interactive elements to create an engaging user experience.
 
