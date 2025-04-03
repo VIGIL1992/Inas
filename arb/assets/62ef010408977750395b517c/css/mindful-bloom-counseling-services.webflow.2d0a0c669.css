@@ -2732,7 +2732,7 @@ a {
 .list-item.help {
   color: var(--dark);
   background-image: url("../../../assets/62ef010408977750395b517c/62ef065f1cef285fff21a9fb_ic_bullet_lotus.svg");
-  background-position: 0%;
+  background-position: right center;
   background-repeat: no-repeat;
   background-size: 15px;
   max-width: 450px;
