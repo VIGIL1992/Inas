@@ -132,7 +132,7 @@
             <h2 id="w-node-f2744c40-50f2-a00b-b4db-2d002fb3a1e6-1c07cfa9" class="heading">
               <span class="text-span-10">My</span> Journey
             </h2>
-            <img src="assets/62ef010408977750395b517c/green_leaf.svg" 
+            <img src="assets/img/green_leaf.svg" 
               loading="lazy" width="254" alt="green leaf" class="image-22"
             >
           </div>
@@ -360,7 +360,7 @@
             class="hero-img-wrapper"
             >
             <img
-              src="assets/62ef010408977750395b517c/62f1def55a19e149c3a4cfe3_bg_hero_mainimage.png"
+              src="assets/img/how_i_work.png"
               loading="lazy"
               sizes="(max-width: 767px) 100vw, 597.001953125px"
               
@@ -375,7 +375,7 @@
 
   <!-- Testimonials -->
     <!-- Testimonials Section -->
-    <div class="section ">
+    <div class=" ">
         <div class="testimonial-section">
             <!-- Left Side Image -->
             <div class="testimonial-image pt-5">
@@ -392,62 +392,80 @@
                         <!-- Testimonial 1 -->
                         <div class="swiper-slide">
                             <div class="testimonial">
+                              <div class="testimonial-content-wrapper">
                                 <p class="paragraph testi">
                                     "The sessions were great wallah. It was very beneficial for our relationship and it shows us that we are 
                                     not meant for each other, we broke up. I'm happy we've done that, it's better for both of us."
                                 </p>
                                 <div class="stars">★★★★★</div>
-                                <p class="quote-name">- Annette Black</p>
+                                <p class="quote-name">- A B</p>
+                              </div>
                             </div>
                         </div>
 
                         <!-- Testimonial 2 -->
                         <div class="swiper-slide">
                             <div class="testimonial">
+                              <div class="testimonial-content-wrapper">
                                 <p class="paragraph testi">
-                                    "The first time I had a session with Enas was a gift from a friend because I didn't believe it.. since 
-                                    then my life has changed. Thank you from the bottom of my heart for helping me through very difficult 
-                                    times."
+                                    "The first time I had a session with Enas was a gift from a friend because I didn't believe it.. since then 
+                                    my life has changed. Thank you from the bottom of my heart for helping me through very difficult times. Thank 
+                                    you for sharing your energy with the rest of the world. I can describe the feeling as freedom Of the mind and 
+                                    awakening from the gloomy everyday life. after the session l see things that I don't have time to stop and 
+                                    notice.. I enjoy life. I recommend to every person.. She did a session on my children... nothing more to say!"
                                 </p>
                                 <div class="stars">★★★★☆</div>
-                                <p class="quote-name">- Greta Leen</p>
+                                <p class="quote-name">- G L</p>
+                              </div>
                             </div>
                         </div>
 
                         <!-- Testimonial 3 -->
                         <div class="swiper-slide">
                             <div class="testimonial">
+                              <div class="testimonial-content-wrapper">
                                 <p class="paragraph testi">
-                                    "The sessions with Enaz were a great investment and helped me find comfort during a really 
+                                    "The sessions with Enaz were a great investment and helped me to find comfort during a really 
                                     difficult moment of my life."
                                 </p>
                                 <div class="stars">★★★★★</div>
-                                <p class="quote-name">- Natalie Brooks</p>
+                                <p class="quote-name">- N B</p>
+                              </div>
                             </div>
                         </div>
 
                         <!-- Testimonial 4 -->
                         <div class="swiper-slide">
                             <div class="testimonial">
+                              <div class="testimonial-content-wrapper">
                                 <p class="paragraph testi">
                                     "Hello Enas, I noticed that I have been taking sessions with you for a year now, and wow, miracles happened 
-                                    to me in this year. I can't thank you enough and I'm looking forward for more sessions to come."
+                                    to me in this year. I can't thank you enough and I'm looking forward for more sessions. The best is yet to come."
                                 </p>
                                 <div class="stars">★★★★★</div>
-                                <p class="quote-name">- Ranim Kaddoura</p>
+                                <p class="quote-name">- R K</p>
+                              </div>
                             </div>
                         </div>
 
                         <!-- Testimonial 5 -->
                         <div class="swiper-slide">
                             <div class="testimonial">
+                              <div class="testimonial-content-wrapper">
                                 <p class="paragraph testi">
-                                    "I came to see Annous at a time in my life when I was looking for answers and guidance. She has the ability 
-                                    to connect with you immediately and understand exactly what is troubling you. It’s as if she knows me 
-                                    better than I know myself."
+                                    "I came to see Annous at a time in my life where I looking for answers and a bit of guidance. It's extremely 
+                                    hard for me to open up, I live on my own with 2 dogs away from family for the past decade and have been single 
+                                    for the majority of that time. I can be seen as cold to an outsider, but within minutes of being with Annous 
+                                    I was opening up and crying my eyes out. She has the ability to connect with you immediately and understand 
+                                    exactly what is troubling you way beneath the surface level. It's as if she knows me better than I know myself 
+                                    at times. Annous has given me a different perspective on emotional circumstances I had buried for many years. 
+                                    Her intuition and healing ability enabled me to leave the session feeling a sense of calm and peace. Since our 
+                                    first session my career has grown from strength to strength. I definitely think Annous gave me the confidence 
+                                    to keep going where I was doubting myself. I wish I could see her every week. She is amazing in so many ways.."
                                 </p>
                                 <div class="stars">★★★★★</div>
-                                <p class="quote-name">- Natalie Ruru</p>
+                                <p class="quote-name">- N R</p>
+                              </div>
                             </div>
                         </div>
                     </div>
@@ -526,27 +544,40 @@
         }
 
         .testimonial {
-            background: var(--primary-color);
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
-            text-align: center;
-            max-width: 80%;
-            height: 450px;
-            
-            /* Centering the content */
-            display: flex;
-            align-items: center; /* Vertical centering */
-            justify-content: center; /* Horizontal centering */
-            flex-direction: column; /* Stack elements vertically */
-        }
+    background: var(--primary-color);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 90%;
+    height: 600px;
+    /* Vertical alignment solution */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centers content vertically */
+    align-items: center; /* Centers content horizontally */
+    /* Scroll handling */
+    overflow: hidden;
+}
 
-        .paragraph.testi {
-            font-family: Barlow, sans-serif;
-            font-size: 1.5rem;
-            color: #ffffff;
-            margin-bottom: 15px;
-        }
+.testimonial-content-wrapper {
+    width: 100%;
+    max-height: 500px; /* Adjust based on your needs */
+    overflow-y: auto; /* Enables vertical scrolling */
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.paragraph.testi {
+    font-family: Barlow, sans-serif;
+    font-size: 1.5rem;
+    color: #ffffff;
+    margin-bottom: 15px;
+    text-align: left; /* Better for long text */
+    width: 100%;
+}
 
         .stars {
             color: gold;

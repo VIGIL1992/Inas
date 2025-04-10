@@ -21,7 +21,7 @@
                     <div class="about-footer">
                         <!-- Section Title Start -->
                         <div class="section-title">
-                            <h2 class="wow fadeInUp">Let’s start your journey to transformation- <br> <span>reach out today</span></h2>
+                            <h2 class="wow fadeInUp">Inas - Let’s start your journey to transformation—reach out today,  <span>and let’s make it happen together!</span></h2>
                         </div>
                         <!-- Section Title End -->
                     </div>
@@ -102,7 +102,7 @@
                                 </div>
 
                                 <div class="contact-info-title">
-                                    <h3>+0505603675</h3>
+                                    <h3>+00 971 56 525 7542</h3>
                                 </div>
                             </div>
                             <!-- Contact Info Body End -->
@@ -125,7 +125,7 @@
                                 </div>
 
                                 <div class="contact-info-title">
-                                    <h3>info@craceart.ae</h3>
+                                    <h3>inas@inaslifehealing.com</h3>
                                 </div>
                             </div>
                             <!-- Contact Info Body End -->
@@ -133,15 +133,15 @@
                         <!-- Contact Info Item End -->
 
                         <!-- Contact Info Item Start -->
-                        <div class="contact-info-item wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
-                            <!-- Contact Info Contact Start -->
+                        <!-- <div class="contact-info-item wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
+                            Contact Info Contact Start
                             <div class="contact-info-contant">
                                 <h3>visit us</h3>
                                 <p>Visit us for personalized  guidance toward lasting success!</p>
                             </div>
-                            <!-- Contact Info Contact End -->
+                            Contact Info Contact End
 
-                            <!-- Contact Info Body Start -->
+                            Contact Info Body Start
                             <div class="contact-info-body">
                                 <div class="icon-box">
                                     <img src="images/icon-location.svg" alt="">
@@ -151,8 +151,8 @@
                                     <h3>The Metropolis Tower, 1201, Dubai, UAE</h3>
                                 </div>
                             </div>
-                            <!-- Contact Info Body End -->
-                        </div>
+                            Contact Info Body End
+                        </div> -->
                         <!-- Contact Info Item End -->
                     </div>
                     <!-- Contact Information End -->

@@ -2157,7 +2157,8 @@ a {
 }
 
 .section {
-  background-image: url("https://cdn.prod.website-files.com/62ef010408977750395b517c/62ef613ecaeb353457e52c4b_beige bubble.svg"), url("https://cdn.prod.website-files.com/62ef010408977750395b517c/62ef381c3d1ceae7951b1812_bg_beigeblock.svg");
+  background-image: url("../../img/green_beige_bubble.svg"), 
+                    url("../../img/bg_beigeblock.svg");
   background-position: 100% 100%, 0 0;
   background-repeat: no-repeat, no-repeat;
   background-size: auto, auto;

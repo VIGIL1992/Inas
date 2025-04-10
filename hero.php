@@ -83,8 +83,9 @@
                         <div class="hero-content">
                             <!-- Section Title Start -->
                             <div class="section-title">
-                                <h3 class="wow fadeInUp">Welcome To INAS.</h3>
-                                <h1 class="wow fadeInUp" data-wow-delay="0.2s">Inas <span>Life Healing</span></h1>
+                                <h3 class="wow fadeInUp">Welcome To.</h3>
+                                <h1 class="wow fadeInUp" data-wow-delay="0.2s">Inas<span> Life Healing</span></h1>
+                                
                             </div>
                             <!-- Section Title End -->
     
@@ -114,7 +115,7 @@
                                     <img src="images/icon-export-coaching-1.svg" alt="">
                                 </div>
                                 <div class="export-coaching-step-content">
-                                    <p>Transform Your Life with Natural Healing.</p>
+                                    <p style="text-align: justify;letter-spacing: -0.5px;">Where Healing Meets Transformation - Empowering You Every Step of the Way.</p>
                                 </div>
                             </div>
                             <!-- Export Coaching Step End -->
@@ -147,7 +148,7 @@
                                     <img src="images/icon-export-coaching-4.svg" alt="">
                                 </div>
                                 <div class="export-coaching-step-content">
-                                    <p>Flexible Healing, Tailored for You.</p>
+                                    <p>Healing Lives, Building Futures - Be the Change You Seek.</p>
                                 </div>
                             </div>
                             <!-- Export Coaching Step End -->
@@ -158,7 +159,7 @@
                                     <img src="images/icon-export-coaching-5.svg" alt="">
                                 </div>
                                 <div class="export-coaching-step-content">
-                                    <p>Expert Guidance with Ongoing Support.</p>
+                                    <p>Awaken Your Potential, Redefine Your Health.</p>
                                 </div>
                             </div>
                             <!-- Export Coaching Step End -->
