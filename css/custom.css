@@ -1250,7 +1250,7 @@ header.main-header .header-sticky.active .container-fluid::before{
 
 .footer-contact-info h3{
 	font-size: 22px;
-	text-transform: capitalize;
+	/* text-transform: capitalize; */
 	color: var(--white-color);
 	margin-bottom: 20px;
 	margin-top: 20px;

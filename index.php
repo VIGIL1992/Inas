@@ -561,23 +561,44 @@
 }
 
 .testimonial-content-wrapper {
-    width: 100%;
+    /*width: 100%;
     max-height: 500px; /* Adjust based on your needs */
-    overflow-y: auto; /* Enables vertical scrolling */
+    /*overflow-y: auto; /* Enables vertical scrolling */
+    /*overflow: hidden; 
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; */
+}
+.testimonial-content-wrapper {
+    width: 100%;
     padding: 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
+/* Only clip the paragraph */
 .paragraph.testi {
     font-family: Barlow, sans-serif;
     font-size: 1.5rem;
     color: #ffffff;
     margin-bottom: 15px;
-    text-align: left; /* Better for long text */
+    text-align: left;
     width: 100%;
+    display: -webkit-box;
+    -webkit-line-clamp: 7; /* Show only 7 lines, adjust as needed */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
 }
+/* .paragraph.testi {
+    font-family: Barlow, sans-serif;
+    font-size: 1.5rem;
+    color: #ffffff;
+    margin-bottom: 15px;
+    text-align: left;
+    width: 100%;
+} */
 
         .stars {
             color: gold;

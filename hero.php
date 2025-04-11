@@ -115,7 +115,9 @@
                                     <img src="images/icon-export-coaching-1.svg" alt="">
                                 </div>
                                 <div class="export-coaching-step-content">
-                                    <p style="text-align: justify;letter-spacing: -0.5px;">Where Healing Meets Transformation - Empowering You Every Step of the Way.</p>
+                                    <p style="text-align: justify;letter-spacing: -0.5px;">
+                                        Transform Your Life with Natural Healing.
+                                    </p>
                                 </div>
                             </div>
                             <!-- Export Coaching Step End -->
