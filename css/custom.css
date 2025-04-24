@@ -740,6 +740,7 @@ header.main-header .header-sticky.active .container-fluid::before{
 	/* background-position: bottom bottom !important; */
 	background-size: cover;
 	padding: 350px 30px 100px;
+	/* padding: 330px 30px 100px; */
 	margin-top: -190px;
 	overflow: hidden;
 }
@@ -3245,4 +3246,37 @@ header.main-header .header-sticky.active .container-fluid::before{
 
 .text-justify{
 	text-align: justify ;
+}
+
+
+.scrolling-ticker-box {
+    --gap: 40px;
+    position: relative;
+    display: flex
+;
+    overflow: hidden;
+    user-select: none;
+    gap: var(--gap);
+}
+
+.scrolling-content {
+    flex-shrink: 0;
+    display: flex;
+    gap: var(--gap);
+    min-width: 100%;
+    animation: scroll 20s linear infinite;
+}
+
+.scrolling-content span {
+    display: inline-flex
+;
+    align-items: center;
+    text-transform: capitalize;
+    font-size: 90px;
+    line-height: 1.1em;
+    font-weight: 600;
+    background: linear-gradient(to left, var(--accent-color) 0.16%, var(--dark-color) 99.84%);
+    -webkit-background-clip: text;
+    -webkit-text-stroke: 4px transparent;
+    color: var(--secondary-color);
 }

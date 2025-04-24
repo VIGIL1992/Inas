@@ -21,7 +21,7 @@
                     <div class="about-footer">
                         <!-- Section Title Start -->
                         <div class="section-title">
-                            <h2 class="wow fadeInUp">Inas - Let’s start your journey to transformation—reach out today,  <span>and let’s make it happen together!</span></h2>
+                            <h2 class="wow fadeInUp">Take a meaningful step forward in redefining <wbr> your <span>health and living your best life!</span></h2>
                         </div>
                         <!-- Section Title End -->
                     </div>
@@ -37,7 +37,7 @@
                         <div class="contact-us-title">
                             <h3 class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">send a message</h3>
                             <p class="wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-                                Unlock your potential with expert guidance! Schedule a free consultation toward personal health care.
+                                Get in touch to start your wellness journey - send a message and schedule your free expert consultation.                            
                             </p>
                         </div>
                         <!-- Contact Us Title End -->
@@ -90,8 +90,8 @@
                         <div class="contact-info-item wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
                             <!-- Contact Info Contact Start -->
                             <div class="contact-info-contant">
-                                <h3>call me</h3>
-                                <p>Call me today for personalized care and transformative growth!</p>
+                                <h3>Connect with me over whatsapp and phone!</h3>
+                                <!-- <p>Connect with me over whatsapp and phone!</p> -->
                             </div>
                             <!-- Contact Info Contact End -->
 
@@ -113,8 +113,8 @@
                         <div class="contact-info-item wow fadeInUp" data-wow-delay="0.25s" style="visibility: visible; animation-delay: 0.25s; animation-name: fadeInUp;">
                             <!-- Contact Info Contact Start -->
                             <div class="contact-info-contant">
-                                <h3>email us</h3>
-                                <p>Email us now for expert coaching and tailored health solutions!</p>
+                                <h3>Write to me directly!</h3>
+                                <!-- <p>Write to me directly!</p> -->
                             </div>
                             <!-- Contact Info Contact End -->
 

@@ -125,10 +125,10 @@
           </div>
       </div>
     </div>
-      <!-- My Journey -->
+      <!-- My Journey Start -->
       <div class="section welcome">
         <div class="container-2 w-container">
-          <div id="w-node-fbe11ef9-3a47-bd21-fb8a-94146568f02d-1c07cfa9" class="welcome-heading-wrapper">
+          <div id="w-node-fbe11ef9-3a47-bd21-fb8a-94146568f02d-1c07cfa9" class="welcome-heading-wrapper" style="padding-left: 40px; text-align: center;">
             <h2 id="w-node-f2744c40-50f2-a00b-b4db-2d002fb3a1e6-1c07cfa9" class="heading">
               <span class="text-span-10">My</span> Journey
             </h2>
@@ -150,9 +150,20 @@
             <p class="paragraph">
               I am here to walk this path with you, creating a space where healing and transformation are not only possible but inevitable.
             </p>
+            <style>
+              @media screen and (min-width: 992px) {
+                .container-2 {
+                  display: grid;
+                  grid-template-columns: 1fr 1fr; /* Two equal columns */
+                  gap: 2rem; /* Add space between columns if needed */
+                }
+              }
+
+            </style>
           </div>
         </div>
-        
+        <!-- My Journey End -->
+
         <!-- My Services -->
         <div class="section team" id="service">
           <div class="container-5 team w-container">
@@ -514,7 +525,7 @@
         /* Left Side Image */
         .testimonial-image {
             flex: 1;
-            max-width: 40%;
+            max-width: 30%;
         }
 
         .testimonial-image img {
@@ -528,7 +539,7 @@
         /* Right Side Testimonials */
         .testimonial-content {
             flex: 1;
-            max-width: 60%;
+            max-width: 70%;
             text-align: center;
         }
 
@@ -578,28 +589,28 @@
     align-items: center;
 }
 
-/* Only clip the paragraph */
 .paragraph.testi {
     font-family: Barlow, sans-serif;
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     color: #ffffff;
     margin-bottom: 15px;
     text-align: left;
     width: 100%;
     display: -webkit-box;
-    -webkit-line-clamp: 7; /* Show only 7 lines, adjust as needed */
+    -webkit-line-clamp: 15;
     -webkit-box-orient: vertical;
     overflow: hidden;
 }
-/* .paragraph.testi {
-    font-family: Barlow, sans-serif;
-    font-size: 1.5rem;
-    color: #ffffff;
-    margin-bottom: 15px;
-    text-align: left;
-    width: 100%;
-} */
 
+/* TABLET & BELOW: Show full content with scroll instead of clipping */
+@media (max-width: 1200px) {
+    .paragraph.testi {
+        display: block; /* remove line-clamp */
+        max-height: 280px; /* adjust height as needed */
+        overflow-y: auto;
+        padding-right: 8px; /* space for scrollbar */
+    }
+}
         .stars {
             color: gold;
             font-size: 20px;
@@ -609,6 +620,7 @@
         .quote-name {
             font-weight: bold;
             color: #dacfbb;
+            margin-bottom: 20px;
         }
 
         /* Swiper Pagination & Navigation */

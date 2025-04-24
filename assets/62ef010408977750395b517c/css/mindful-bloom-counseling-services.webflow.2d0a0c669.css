@@ -2058,8 +2058,8 @@ textarea.w-input, textarea.w-select {
 :root {
   --ivory: #dacfbb;
   --light-sage: #929c88;
-  /* --sage: #818b77; */
-  --sage: var(--primary-color);
+  --sage: #8f9483;
+  /* --sage: var(--primary-color); */
   --dark: #212121;
   --dim-grey: #565656;
   --white: white;
@@ -4036,6 +4036,7 @@ a {
   .heading {
     margin: 10px 20px 20px;
     line-height: 36px;
+
   }
 
   .heading.services {
@@ -4252,7 +4253,7 @@ a {
 
   .image-22 {
     top: 36px;
-    left: -446px;
+    /* left: -446px; */
   }
 
   .welcome-heading-wrapper {

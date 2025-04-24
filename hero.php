@@ -83,8 +83,12 @@
                         <div class="hero-content">
                             <!-- Section Title Start -->
                             <div class="section-title">
-                                <h3 class="wow fadeInUp">Welcome To.</h3>
-                                <h1 class="wow fadeInUp" data-wow-delay="0.2s">Inas<span> Life Healing</span></h1>
+                                <h3 class="wow fadeInUp">Welcome to  </h3>
+                                <h1 class="wow fadeInUp mobsize" 
+                                    data-wow-delay="0.2s"
+                                    style=""> 
+                                    Inas <span>Life Healing. </span>
+                                </h1>
                                 
                             </div>
                             <!-- Section Title End -->
@@ -99,6 +103,7 @@
                                     .hero-btn {
                                         text-align: center !important; /* Centers the button text on mobile */
                                     }
+                                    
                                 }
                             </style>
                         </div>
@@ -174,7 +179,38 @@
     <!-- Hero Section End -->
 
 
+    <div class="how-we-work">
+        
+        <!-- Scrolling Ticker Start -->
+        <div class="scrolling-ticker work-ticker">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <!-- Scrolling Ticker Box Start -->
+                        <div class="scrolling-ticker-box">
+                            <!-- Scrolling Ticker Content Start -->
+                            <div class="scrolling-content">
+                                <span><img src="images/asterisk-icon.svg" alt="">Stress Management</span>
+                                <span><img src="images/asterisk-icon.svg" alt="">Business Coaching</span>
+                                <span><img src="images/asterisk-icon.svg" alt="">Career Support</span>
+                            </div>
+                            <!-- Scrolling Ticker Content End -->
 
+                            <!-- Scrolling Ticker Content Start -->
+                            <div class="scrolling-content">
+                                <span><img src="images/asterisk-icon.svg" alt="">Stress Management</span>
+                                <span><img src="images/asterisk-icon.svg" alt="">Business Coaching</span>
+                                <span><img src="images/asterisk-icon.svg" alt="">Career Support</span>
+                            </div>
+                            <!-- Scrolling Ticker Content End -->
+                        </div>
+                        <!-- Scrolling Ticker Box End -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Scrolling Ticker End -->
+    </div>
 
 
 
