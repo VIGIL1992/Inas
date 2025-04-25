@@ -47,7 +47,7 @@
 :root{
 	/* --primary-color			: #042A2D; */
 	--primary-color			: #344f43	;
-	--secondary-color		: #f6f0e4;
+	--secondary-color		: #dacfbb;
 	--text-color			: #8F8F8F;
 	/* --accent-color			: #73ED7C; */
 	--accent-color			: #fff;
@@ -3257,6 +3257,7 @@ header.main-header .header-sticky.active .container-fluid::before{
     overflow: hidden;
     user-select: none;
     gap: var(--gap);
+	margin: 0 -15px;
 }
 
 .scrolling-content {
@@ -3272,11 +3273,32 @@ header.main-header .header-sticky.active .container-fluid::before{
 ;
     align-items: center;
     text-transform: capitalize;
-    font-size: 90px;
+    font-size: 80px;
     line-height: 1.1em;
     font-weight: 600;
-    background: linear-gradient(to left, var(--accent-color) 0.16%, var(--dark-color) 99.84%);
+    background: linear-gradient(to left, 
+				var(--button-color-left) 0.16%, 
+				var(--button-color-left) 99.84%);
     -webkit-background-clip: text;
     -webkit-text-stroke: 4px transparent;
     color: var(--secondary-color);
+}
+
+@keyframes scroll{
+	from{
+		transform: translateX(0);
+	}
+
+	to{
+		transform: translateX(calc(-100% - var(--gap)));
+	}
+}
+
+.scrolling-content span img{
+	max-width: 50px;
+	margin-right: 40px;
+}
+
+.scrolling-ticker.work-ticker {
+    margin-top: 70px;
 }

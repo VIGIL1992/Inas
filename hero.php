@@ -43,7 +43,7 @@
 					<!-- Logo Start -->
 					<a class="navbar-brand" href="#index">
 						<!-- <img src="images/logo.svg" alt="Logo"> -->
-                        <img src="images/INAS_Final_LOGO.png" alt="Logo" style="height: 130px;">
+                        <img src="images/INAS_Final_LOGO.png" alt="Logo" style="height: 150px;">
 					</a>
 					<!-- Logo End -->
 
@@ -190,17 +190,17 @@
                         <div class="scrolling-ticker-box">
                             <!-- Scrolling Ticker Content Start -->
                             <div class="scrolling-content">
-                                <span><img src="images/asterisk-icon.svg" alt="">Stress Management</span>
-                                <span><img src="images/asterisk-icon.svg" alt="">Business Coaching</span>
-                                <span><img src="images/asterisk-icon.svg" alt="">Career Support</span>
+                                <span><img src="images/asterisk-icon.svg" alt="">where your journey to wellness and Transformation begins</span>
+                                <!-- <span><img src="images/asterisk-icon.svg" alt="">Business Coaching</span> -->
+                                <!-- <span><img src="images/asterisk-icon.svg" alt="">Career Support</span> -->
                             </div>
                             <!-- Scrolling Ticker Content End -->
 
                             <!-- Scrolling Ticker Content Start -->
                             <div class="scrolling-content">
-                                <span><img src="images/asterisk-icon.svg" alt="">Stress Management</span>
-                                <span><img src="images/asterisk-icon.svg" alt="">Business Coaching</span>
-                                <span><img src="images/asterisk-icon.svg" alt="">Career Support</span>
+                                <span><img src="images/asterisk-icon.svg" alt="">where your journey to wellness and Transformation begins</span>
+                                <!-- <span><img src="images/asterisk-icon.svg" alt="">Business Coaching</span> -->
+                                <!-- <span><img src="images/asterisk-icon.svg" alt="">Career Support</span> -->
                             </div>
                             <!-- Scrolling Ticker Content End -->
                         </div>
