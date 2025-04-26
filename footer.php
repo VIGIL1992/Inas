@@ -8,7 +8,7 @@
                 <div class="">
                     <!-- Section Title Start -->
                     <div class="section-title">
-                        <h3 class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp; color: #fff;">get in touch</h3>
+                        <!-- <h3 class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp; color: #fff;">get in touch</h3> -->
                         <!-- <h2 class="wow fadeInUp" data-wow-delay="0.25s" style="visibility: visible; animation-delay: 0.25s; animation-name: fadeInUp;">
                             Let's work together to create 
                             <span style="background-image: linear-gradient(267.43deg, #355649 4.95%, #3a5749 97.92%) !important;">
@@ -98,11 +98,11 @@
                             <!-- Contact Info Body Start -->
                             <div class="contact-info-body">
                                 <div class="icon-box">
-                                    <img src="images/icon-phone.svg" alt="">
+                                    <img src="images/whatsapp.svg" alt="whatsapp">
                                 </div>
 
                                 <div class="contact-info-title">
-                                    <h3>+00 971 56 525 7542</h3>
+                                    <h3><a href="https://wa.me/971565257542" target="_blank">+971 56 525 7542</a></h3>
                                 </div>
                             </div>
                             <!-- Contact Info Body End -->
@@ -121,11 +121,11 @@
                             <!-- Contact Info Body Start -->
                             <div class="contact-info-body">
                                 <div class="icon-box">
-                                    <img src="images/icon-mail.svg" alt="">
+                                    <img src="images/icon-mail.svg" alt="email">
                                 </div>
 
                                 <div class="contact-info-title">
-                                    <h3>inas@inaslifehealing.com</h3>
+                                    <h3><a href="mailto:inas@inaslifehealing.com" target="_blank">inas@inaslifehealing.com</a></h3>
                                 </div>
                             </div>
                             <!-- Contact Info Body End -->
@@ -133,26 +133,34 @@
                         <!-- Contact Info Item End -->
 
                         <!-- Contact Info Item Start -->
-                        <!-- <div class="contact-info-item wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
-                            Contact Info Contact Start
+                        <div class="contact-info-item wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
+                            <!-- Contact Info Contact Start -->
                             <div class="contact-info-contant">
-                                <h3>visit us</h3>
-                                <p>Visit us for personalized  guidance toward lasting success!</p>
+                                <h3>Social Media</h3>
+                                <!-- <p>Visit us for personalized  guidance toward lasting success!</p> -->
                             </div>
-                            Contact Info Contact End
+                            <!-- Contact Info Contact End -->
 
-                            Contact Info Body Start
+                            <!-- Contact Info Body Start -->
                             <div class="contact-info-body">
+                                <!-- <div class="footer-social-links">
+                                    <ul>
+                                        <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
+                                        <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                        <li><a href="https://www.instagram.com/inas.life.healing?igsh=MWJkMHZzb2hnZHl4cw==" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
+                                    </ul>
+                                </div> -->
                                 <div class="icon-box">
-                                    <img src="images/icon-location.svg" alt="">
+                                    <img src="images/instagram.svg" alt="instagram">
                                 </div>
 
                                 <div class="contact-info-title">
-                                    <h3>The Metropolis Tower, 1201, Dubai, UAE</h3>
+                                    <h3><a href="https://www.instagram.com/inas.life.healing?igsh=MWJkMHZzb2hnZHl4cw==" target="_blank">Follow me on instagram</a></h3>
                                 </div>
                             </div>
-                            Contact Info Body End
-                        </div> -->
+                            <!-- Contact Info Body End -->
+                        </div>
                         <!-- Contact Info Item End -->
                     </div>
                     <!-- Contact Information End -->
@@ -168,7 +176,14 @@
                     <div class="col-md-6">
                         <!-- Footer Menu Start -->
                         <div class="footer-menu">
-                            <ul>                            
+                            <ul>                
+                                <li><!-- Logo Start -->
+					<a class="navbar-brand" href="#index">
+						<!-- <img src="images/logo.svg" alt="Logo"> -->
+                        <img src="images/INAS_Final_LOGO.png" alt="Logo" style="height: 150px;">
+					</a>
+					<!-- Logo End -->
+                    </li>            
                                 <li><a href="#home">home</a></li>
                                 <li><a href="#about">about</a></li>
                                 <li><a href="#service">services</a></li>

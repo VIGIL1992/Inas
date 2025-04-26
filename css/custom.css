@@ -1268,7 +1268,7 @@ header.main-header .header-sticky.active .container-fluid::before{
 }
 
 .footer-social-links{
-	margin-top: 30px;
+	/* margin-top: 30px; */
 }
 
 .footer-social-links ul{
@@ -3301,4 +3301,8 @@ header.main-header .header-sticky.active .container-fluid::before{
 
 .scrolling-ticker.work-ticker {
     margin-top: 70px;
+}
+
+.contact-info-title a{
+	color: #fff;
 }
