@@ -9,13 +9,12 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-    <meta name="description" content=" For over 15 years, I’ve had the honor of guiding countless clients on their journey to transform their health, 
-                                      well-being, and personal growth. As a transformational healing mentor, my approach is holistic and uniquely 
-                                      tailored to each individual, ensuring a deeply personal and impactful experience.">
-    <meta name="keywords" content="">
-    <meta name="author" content="Pixell Media Technologies | Vigil Nath K K">
-
-    <title>INAS</title>
+    <meta name="description" content="Holistic healing mentor with 15+ years experience guiding clients in personal growth, 
+                                energy healing, and transformational wellness. Tailored therapy for mind-body-spirit balance.">
+    <meta name="keywords" content="holistic healing, wellness coach, energy healing, personal growth, mind-body therapy, stress relief, spiritual growth">
+    <meta name="author" content="Website by Pixell Media Technologies | Vigil Nath K K">
+    
+    <title>INAS | Holistic Healing & Personal Growth Mentor | 15+ Years Experience</title>
     <meta content="width=device-width, initial-scale=1" name="viewport" />
 
 
@@ -31,7 +30,7 @@
       crossorigin="anonymous"
     />
     <script
-      src="ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"
+      src="assets/ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"
       type="text/javascript"
     ></script>
     <script type="text/javascript">
@@ -54,7 +53,7 @@
             (n.className += t + "touch");
       })(window, document);
     </script>
-    <link href="images/INAS_Final_LOGO.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="assets/images/INAS_Final_LOGO.png" rel="shortcut icon" type="image/x-icon" />
    
 
     <!-- Carousel  -->
@@ -62,7 +61,7 @@
     <!-- Swiper CSS -->
     <link rel="stylesheet" href="assets/npm/swiper@11/swiper-bundle.min.css" />
     <!-- Swiper JS -->
-    <script src="assets/npm/swiper@11/swiper-bundle.min.js"></script>
+    <!-- <script src="assets/npm/swiper@11/swiper-bundle.min.js"></script> -->
 
     <!-- Carousel End -->
   </head>
@@ -182,7 +181,7 @@
                       >
                   <div class="team-member-wrapper">
                       <img
-                      src="images/mental-illness.png"
+                      src="assets/images/mental-illness.png"
                       loading="lazy"
                       alt="Erica Christmas"
                       class="image-24"
@@ -207,7 +206,7 @@
                       >
                   <div class="team-member-wrapper">
                       <img
-                        src="images/child_trama.png"
+                        src="assets/images/child_trama.png"
                         loading="lazy"
                         width="244"
                         alt="Carolyn Dolejs"
@@ -226,7 +225,7 @@
                       >
                   <div class="team-member-wrapper">
                       <img
-                      src="images/Couple  Family Therapy.png"
+                      src="assets/images/Couple  Family Therapy.png"
                       loading="lazy"
                       width="244"
                       alt="Carolyn Dolejs"
@@ -257,7 +256,7 @@
                       >
                   <div class="team-member-wrapper">
                       <img
-                      src="images/Successful_Work_Life.png"
+                      src="assets/images/Successful_Work_Life.png"
                       loading="lazy"
                       alt="Erica Christmas"
                       class="image-24"
@@ -282,7 +281,7 @@
                       >
                   <div class="team-member-wrapper">
                       <img
-                      src="images/Anger Management.png"
+                      src="assets/images/Anger Management.png"
                       loading="lazy"
                       width="244"
                       alt="Carolyn Dolejs"
@@ -301,7 +300,7 @@
                     >
                 <div class="team-member-wrapper">
                     <img
-                    src="images/Happiness.png"
+                    src="assets/images/Happiness.png"
                     loading="lazy"
                     width="244"
                     alt="Carolyn Dolejs"
@@ -387,128 +386,175 @@
   <!-- Testimonials -->
     <!-- Testimonials Section -->
     <div class=" ">
-        <div class="testimonial-section">
-            <!-- Left Side Image -->
-            <div class="testimonial-image pt-5">
-                <img src="images/testimonial.png" alt="Background Image">
-            </div>
+      <div class="testimonial-section">
+          <div class="testimonial-image pt-5">
+              <img src="assets/images/testimonial.png" alt="Background Image">
+          </div>
 
-            <!-- Right Side Testimonials -->
-            <div class="testimonial-content">
-                <h1 class="heading contact ">Testimonials</h1>
+          <div class="testimonial-content">
+              <h1 class="heading contact ">Testimonials</h1>
 
-                <!-- Swiper Carousel -->
-                <div class="swiper mySwiper ">
-                    <div class="swiper-wrapper">
-                        <!-- Testimonial 1 -->
-                        <div class="swiper-slide">
-                            <div class="testimonial">
+              <div class="swiper mySwiper ">
+                  <div class="swiper-wrapper">
+
+                      <div class="swiper-slide">
+                          <div class="testimonial">
                               <div class="testimonial-content-wrapper">
-                                <p class="paragraph testi">
-                                    "The sessions were great wallah. It was very beneficial for our relationship and it shows us that we are 
-                                    not meant for each other, we broke up. I'm happy we've done that, it's better for both of us."
-                                </p>
-                                <div class="stars">★★★★★</div>
-                                <p class="quote-name">- A B</p>
+                                  <p class="paragraph testi">
+                                      "The sessions were great wallah. It was very beneficial for our relationship and it shows us that we are
+                                      not meant for each other, we broke up. I'm happy we've done that, it's better for both of us."
+                                  </p>
+                                  <div class="stars">★★★★★</div>
+                                  <p class="quote-name">- A B</p>
                               </div>
-                            </div>
-                        </div>
+                          </div>
+                      </div>
 
-                        <!-- Testimonial 2 -->
-                        <div class="swiper-slide">
-                            <div class="testimonial">
+                      <div class="swiper-slide">
+                          <div class="testimonial">
                               <div class="testimonial-content-wrapper">
-                                <p class="paragraph testi">
-                                    "The first time I had a session with Enas was a gift from a friend because I didn't believe it.. since then 
-                                    my life has changed. Thank you from the bottom of my heart for helping me through very difficult times. Thank 
-                                    you for sharing your energy with the rest of the world. I can describe the feeling as freedom Of the mind and 
-                                    awakening from the gloomy everyday life. after the session l see things that I don't have time to stop and 
-                                    notice.. I enjoy life. I recommend to every person.. She did a session on my children... nothing more to say!"
-                                </p>
-                                <div class="stars">★★★★☆</div>
-                                <p class="quote-name">- G L</p>
+                                  <p class="paragraph testi">
+                                      "The first time I had a session with Enas was a gift from a friend because I didn't believe it.. since then
+                                      my life has changed. Thank you from the bottom of my heart for helping me through very difficult times. Thank
+                                      you for sharing your energy with the rest of the world. I can describe the feeling as freedom Of the mind and
+                                      awakening from the gloomy everyday life. after the session l see things that I don't have time to stop and
+                                      notice.. I enjoy life. I recommend to every person.. She did a session on my children... nothing more to say!"
+                                  </p>
+                                  <div class="stars">★★★★☆</div>
+                                  <p class="quote-name">- G L</p>
                               </div>
-                            </div>
-                        </div>
+                          </div>
+                      </div>
 
-                        <!-- Testimonial 3 -->
-                        <div class="swiper-slide">
-                            <div class="testimonial">
+                      <div class="swiper-slide">
+                          <div class="testimonial">
                               <div class="testimonial-content-wrapper">
-                                <p class="paragraph testi">
-                                    "The sessions with Enaz were a great investment and helped me to find comfort during a really 
-                                    difficult moment of my life."
-                                </p>
-                                <div class="stars">★★★★★</div>
-                                <p class="quote-name">- N B</p>
+                                  <p class="paragraph testi">
+                                      "The sessions with Enaz were a great investment and helped me to find comfort during a really
+                                      difficult moment of my life."
+                                  </p>
+                                  <div class="stars">★★★★★</div>
+                                  <p class="quote-name">- N B</p>
                               </div>
-                            </div>
-                        </div>
+                          </div>
+                      </div>
 
-                        <!-- Testimonial 4 -->
-                        <div class="swiper-slide">
-                            <div class="testimonial">
+                      <div class="swiper-slide">
+                          <div class="testimonial">
                               <div class="testimonial-content-wrapper">
-                                <p class="paragraph testi">
-                                    "Hello Enas, I noticed that I have been taking sessions with you for a year now, and wow, miracles happened 
-                                    to me in this year. I can't thank you enough and I'm looking forward for more sessions. The best is yet to come."
-                                </p>
-                                <div class="stars">★★★★★</div>
-                                <p class="quote-name">- R K</p>
+                                  <p class="paragraph testi">
+                                      "Hello Enas, I noticed that I have been taking sessions with you for a year now, and wow, miracles happened
+                                      to me in this year. I can't thank you enough and I'm looking forward for more sessions. The best is yet to come."
+                                  </p>
+                                  <div class="stars">★★★★★</div>
+                                  <p class="quote-name">- R K</p>
                               </div>
-                            </div>
-                        </div>
+                          </div>
+                      </div>
 
-                        <!-- Testimonial 5 -->
-                        <div class="swiper-slide">
-                            <div class="testimonial">
+                      <div class="swiper-slide">
+                          <div class="testimonial">
                               <div class="testimonial-content-wrapper">
-                                <p class="paragraph testi">
-                                    "I came to see Annous at a time in my life where I looking for answers and a bit of guidance. It's extremely 
-                                    hard for me to open up, I live on my own with 2 dogs away from family for the past decade and have been single 
-                                    for the majority of that time. I can be seen as cold to an outsider, but within minutes of being with Annous 
-                                    I was opening up and crying my eyes out. She has the ability to connect with you immediately and understand 
-                                    exactly what is troubling you way beneath the surface level. It's as if she knows me better than I know myself 
-                                    at times. Annous has given me a different perspective on emotional circumstances I had buried for many years. 
-                                    Her intuition and healing ability enabled me to leave the session feeling a sense of calm and peace. Since our 
-                                    first session my career has grown from strength to strength. I definitely think Annous gave me the confidence 
-                                    to keep going where I was doubting myself. I wish I could see her every week. She is amazing in so many ways.."
-                                </p>
-                                <div class="stars">★★★★★</div>
-                                <p class="quote-name">- N R</p>
+                                  <p class="paragraph testi">
+                                      "I came to see Annous at a time in my life where I looking for answers and a bit of guidance. It's extremely
+                                      hard for me to open up, I live on my own with 2 dogs away from family for the past decade and have been single
+                                      for the majority of that time. I can be seen as cold to an outsider, but within minutes of being with Annous
+                                      I was opening up and crying my eyes out. She has the ability to connect with you immediately and understand
+                                      exactly what is troubling you way beneath the surface level. It's as if she knows me better than I know myself
+                                      at times. Annous has given me a different perspective on emotional circumstances I had buried for many years.
+                                      Her intuition and healing ability enabled me to leave the session feeling a sense of calm and peace. Since our
+                                      first session my career has grown from strength to strength. I definitely think Annous gave me the confidence
+                                      to keep going where I was doubting myself. I wish I could see her every week. She is amazing in so many ways.."
+                                  </p>
+                                  <div class="stars">★★★★★</div>
+                                  <p class="quote-name">- N R</p>
                               </div>
-                            </div>
-                        </div>
-                    </div>
+                          </div>
+                      </div>
+                  </div>
 
-                    <!-- Pagination & Navigation -->
-                    <div class="swiper-pagination"></div>
-                    <div class="swiper-button-next"></div>
-                    <div class="swiper-button-prev"></div>
-                </div>
-            </div>
-        </div>
-    </div>
+                  <div class="swiper-pagination"></div>
+                  <div class="swiper-button-next"></div>
+                  <div class="swiper-button-prev"></div>
+              </div>
+          </div>
+      </div>
+  </div>
 
+    <!-- Swiper CSS -->
+    <link rel="stylesheet" href="assets/npm/swiper@11/swiper-bundle.min.css" />
     <!-- Swiper JS -->
-    <script src="assets/npm/swiper@11/swiper-bundle.min.js"></script>
-    <script>
-        var swiper = new Swiper(".mySwiper", {
-            loop: true,
-            autoplay: {
-                delay: 3000,
-                disableOnInteraction: false,
-            },
-            navigation: {
-                nextEl: ".swiper-button-next",
-                prevEl: ".swiper-button-prev",
-            },
-            pagination: {
-                el: ".swiper-pagination",
-                clickable: true,
-            },
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const swiper = new Swiper(".mySwiper", {
+        loop: true,
+        autoplay: {
+            delay: 5000, // Adjust the delay (in milliseconds) as needed
+            disableOnInteraction: true, // This will pause autoplay when the user interacts with the swiper (e.g., clicks/touches)
+        },
+        navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
+        },
+        pagination: {
+            el: ".swiper-pagination",
+            clickable: true,
+        },
+    });
+
+    // *** REMOVED MOBILE NAVIGATION BUTTON CREATION AND FUNCTIONALITY ***
+    // const mobileNav = document.createElement('div');
+    // mobileNav.classList.add('swiper-mobile-nav');
+
+    // const prevButton = document.createElement('div');
+    // prevButton.classList.add('swiper-button-prev-mobile');
+    // prevButton.innerHTML = '&larr;'; // Left arrow
+
+    // const nextButton = document.createElement('div');
+    // nextButton.classList.add('swiper-button-next-mobile');
+    // nextButton.innerHTML = '&rarr;'; // Right arrow
+
+    // mobileNav.appendChild(prevButton);
+    // mobileNav.appendChild(nextButton);
+
+    // const swiperContainer = document.querySelector('.swiper');
+    // if (swiperContainer) {
+    //     swiperContainer.appendChild(mobileNav);
+    // }
+
+    // // Mobile navigation button functionality
+    // const prevButtonMobile = document.querySelector('.swiper-button-prev-mobile');
+    // const nextButtonMobile = document.querySelector('.swiper-button-next-mobile');
+
+    // if (prevButtonMobile && nextButtonMobile) {
+    //     prevButtonMobile.addEventListener('click', () => {
+    //         swiper.slidePrev();
+    //     });
+
+    //     nextButtonMobile.addEventListener('click', () => {
+    //         swiper.slideNext();
+    //     });
+    // }
+
+    // Pause autoplay on mouseenter (hover) over the swiper
+    const swiperContainerElement = document.querySelector('.swiper');
+    if (swiperContainerElement) {
+        swiperContainerElement.addEventListener('mouseenter', () => {
+            swiper.autoplay.stop();
         });
-    </script>
+
+        // Resume autoplay on mouseleave (when the mouse moves out)
+        swiperContainerElement.addEventListener('mouseleave', () => {
+            swiper.autoplay.start();
+        });
+    }
+});
+
+
+</script>
+    
 
     <!-- Responsive Styles -->
     <style>
@@ -602,6 +648,12 @@
     overflow: hidden;
 }
 
+.swiper-slide.testimonial-selected .testimonial { /* Target the .testimonial inside the selected slide */
+    border: 2px solid #f0ad4e; /* Add a border */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Slightly enhance the shadow */
+    /* You can customize these styles as you like */
+} 
+
 /* TABLET & BELOW: Show full content with scroll instead of clipping */
 @media (max-width: 1200px) {
     .paragraph.testi {
@@ -667,6 +719,11 @@
                 padding: 15px;
                 max-width: 100%;
             }
+
+            .swiper-button-next,
+            .swiper-button-prev {
+                display: none;
+            }
         }
 
         @media (max-width: 480px) {
@@ -686,6 +743,53 @@
                 font-size: 18px;
             }
         }
+
+
+         /* Hide default navigation on mobile */
+    @media (max-width: 768px) {
+        .swiper-button-next,
+        .swiper-button-prev {
+            display: none !important;
+        }
+
+        /* Style for the mobile navigation container */
+        .swiper-mobile-nav {
+            position: absolute;
+            top: 10px; /* Adjust vertical position as needed */
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            gap: 10px;
+            z-index: 10; /* Ensure it's on top of the testimonial box */
+        }
+
+        /* Style for the mobile navigation buttons */
+        .swiper-button-prev-mobile,
+        .swiper-button-next-mobile {
+            background-color: rgba(0, 0, 0, 0.5);
+            color: white;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            font-size: 1.2rem;
+        }
+
+        /* Adjust testimonial content to make space for buttons */
+        .testimonial-content {
+            padding-top: 40px; /* Adjust top padding */
+        }
+    }
+
+    /* Hide mobile navigation on larger screens */
+    @media (min-width: 769px) {
+        .swiper-mobile-nav {
+            display: none !important;
+        }
+    }
     </style>
 
   <!-- Testimonials End -->
@@ -693,7 +797,7 @@
    
 
     <script
-      src="d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c81b9d.js?site=62ef010408977750395b517c"
+      src="assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c81b9d.js?site=62ef010408977750395b517c"
       type="text/javascript"
       integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
       crossorigin="anonymous"
@@ -708,7 +812,7 @@
     ></script>
 
     <!-- testimonial Carousel -->
-    <script>
+    <!-- <script>
         var swiper = new Swiper(".mySwiper", {
           loop: true,
           autoplay: {
@@ -724,7 +828,7 @@
             clickable: true,
           },
         });
-      </script>
+      </script> -->
 
         <!-- <iframe src="footer.php" frameborder="0" style="width: 100%;"></iframe> -->
     <?php

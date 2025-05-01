@@ -9,27 +9,27 @@
 	<!-- Page Title -->
     <title>Inas</title>
 	<!-- Favicon Icon -->
-	<link rel="shortcut icon" type="image/x-icon" href="images/INAS_Final_LOGO.png">
+	<link rel="shortcut icon" type="image/x-icon" href="assets/images/INAS_Final_LOGO.png">
 	<!-- Google Fonts Css-->
 	<link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Fustat:wght@200..800&amp;display=swap" rel="stylesheet">
 	<!-- Bootstrap Css -->
-	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link href="assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
 	<!-- SlickNav Css -->
-	<link href="css/slicknav.min.css" rel="stylesheet">
+	<link href="assets/css/slicknav.min.css" rel="stylesheet">
 	<!-- Swiper Css -->
-	<link rel="stylesheet" href="css/swiper-bundle.min.css">
+	<!-- <link rel="stylesheet" href="assets/css/swiper-bundle.min.css"> -->
 	<!-- Font Awesome Icon Css-->
-	<link href="css/all.css" rel="stylesheet" media="screen">
-	<!-- Animated Css -->
-	<link href="css/animate.css" rel="stylesheet">
+	<link href="assets/css/all.css" rel="stylesheet" media="screen">
+	<!-- Animaswiper-bundle.mind Css -->
+	<link href="assets/css/animate.css" rel="stylesheet">
     <!-- Magnific Popup Core Css File -->
-	<link rel="stylesheet" href="css/magnific-popup.css">
+	<link rel="stylesheet" href="assets/css/magnific-popup.css">
 	<!-- Mouse Cursor Css File -->
-	<link rel="stylesheet" href="css/mousecursor.css">
+	<link rel="stylesheet" href="assets/css/mousecursor.css">
 	<!-- Main Custom Css -->
-	<link href="css/custom.css" rel="stylesheet" media="screen">
+	<link href="assets/css/custom.css" rel="stylesheet" media="screen">
 </head>
 <body>
 
@@ -42,8 +42,8 @@
 				<div class="container-fluid">
 					<!-- Logo Start -->
 					<a class="navbar-brand" href="#index">
-						<!-- <img src="images/logo.svg" alt="Logo"> -->
-                        <img src="images/INAS_Final_LOGO.png" alt="Logo" style="height: 150px;">
+						<!-- <img src="assets/images/logo.svg" alt="Logo"> -->
+                        <img src="assets/images/INAS_Final_LOGO.png" alt="Logo" style="height: 150px;">
 					</a>
 					<!-- Logo End -->
 
@@ -117,7 +117,7 @@
                             <!-- Export Coaching Step Start -->
                             <div class="export-coaching-step">
                                 <div class="icon-box">
-                                    <img src="images/icon-export-coaching-1.svg" alt="">
+                                    <img src="assets/images/icon-export-coaching-1.svg" alt="">
                                 </div>
                                 <div class="export-coaching-step-content">
                                     <p style="text-align: justify;letter-spacing: -0.5px;">
@@ -130,7 +130,7 @@
                             <!-- Export Coaching Step Start -->
                             <div class="export-coaching-step">
                                 <div class="icon-box">
-                                    <img src="images/icon-export-coaching-2.svg" alt="">
+                                    <img src="assets/images/icon-export-coaching-2.svg" alt="">
                                 </div>
                                 <div class="export-coaching-step-content">
                                     <p>Find Balance & Inner Peace.</p>
@@ -141,7 +141,7 @@
                             <!-- Export Coaching Step Start -->
                             <div class="export-coaching-step">
                                 <div class="icon-box">
-                                    <img src="images/icon-export-coaching-3.svg" alt="">
+                                    <img src="assets/images/icon-export-coaching-3.svg" alt="">
                                 </div>
                                 <div class="export-coaching-step-content">
                                     <p>Experience the Power of Holistic Wellness.</p>
@@ -152,7 +152,7 @@
                             <!-- Export Coaching Step Start -->
                             <div class="export-coaching-step">
                                 <div class="icon-box">
-                                    <img src="images/icon-export-coaching-4.svg" alt="">
+                                    <img src="assets/images/icon-export-coaching-4.svg" alt="">
                                 </div>
                                 <div class="export-coaching-step-content">
                                     <p>Healing Lives, Building Futures - Be the Change You Seek.</p>
@@ -163,7 +163,7 @@
                             <!-- Export Coaching Step Start -->
                             <div class="export-coaching-step">
                                 <div class="icon-box">
-                                    <img src="images/icon-export-coaching-5.svg" alt="">
+                                    <img src="assets/images/icon-export-coaching-5.svg" alt="">
                                 </div>
                                 <div class="export-coaching-step-content">
                                     <p>Awaken Your Potential, Redefine Your Health.</p>
@@ -190,17 +190,17 @@
                         <div class="scrolling-ticker-box">
                             <!-- Scrolling Ticker Content Start -->
                             <div class="scrolling-content">
-                                <span><img src="images/asterisk-icon.svg" alt="">where your journey to wellness and Transformation begins</span>
-                                <!-- <span><img src="images/asterisk-icon.svg" alt="">Business Coaching</span> -->
-                                <!-- <span><img src="images/asterisk-icon.svg" alt="">Career Support</span> -->
+                                <span><img src="assets/images/asterisk-icon.svg" alt="">where your journey to wellness and Transformation begins</span>
+                                <!-- <span><img src="assets/images/asterisk-icon.svg" alt="">Business Coaching</span> -->
+                                <!-- <span><img src="assets/images/asterisk-icon.svg" alt="">Career Support</span> -->
                             </div>
                             <!-- Scrolling Ticker Content End -->
 
                             <!-- Scrolling Ticker Content Start -->
                             <div class="scrolling-content">
-                                <span><img src="images/asterisk-icon.svg" alt="">where your journey to wellness and Transformation begins</span>
-                                <!-- <span><img src="images/asterisk-icon.svg" alt="">Business Coaching</span> -->
-                                <!-- <span><img src="images/asterisk-icon.svg" alt="">Career Support</span> -->
+                                <span><img src="assets/images/asterisk-icon.svg" alt="">where your journey to wellness and Transformation begins</span>
+                                <!-- <span><img src="assets/images/asterisk-icon.svg" alt="">Business Coaching</span> -->
+                                <!-- <span><img src="assets/images/asterisk-icon.svg" alt="">Career Support</span> -->
                             </div>
                             <!-- Scrolling Ticker Content End -->
                         </div>
@@ -215,37 +215,37 @@
 
 
     <!-- Jquery Library File -->
-    <script src="js/jquery-3.7.1.min.js"></script>
+    <script src="assets/js/jquery-3.7.1.min.js"></script>
     <!-- Bootstrap js file -->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
     <!-- Validator js file -->
-    <script src="js/validator.min.js"></script>
+    <script src="assets/js/validator.min.js"></script>
     <!-- SlickNav js file -->
-    <script src="js/jquery.slicknav.js"></script>
+    <script src="assets/js/jquery.slicknav.js"></script>
     <!-- Swiper js file -->
-    <script src="js/swiper-bundle.min.js"></script>
+    <script src="assets/js/swiper-bundle.min.js"></script>
     <!-- Counter js file -->
-    <script src="js/jquery.waypoints.min.js"></script>
-    <script src="js/jquery.counterup.min.js"></script>
+    <script src="assets/js/jquery.waypoints.min.js"></script>
+    <script src="assets/js/jquery.counterup.min.js"></script>
     <!-- Magnific js file -->
-    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
     <!-- SmoothScroll -->
-    <script src="js/SmoothScroll.js"></script>
+    <script src="assets/js/SmoothScroll.js"></script>
     <!-- Parallax js -->
-    <script src="js/parallaxie.js"></script>
+    <script src="assets/js/parallaxie.js"></script>
     <!-- MagicCursor js file -->
-    <script src="js/gsap.min.js"></script>
-    <script src="js/magiccursor.js"></script>
+    <script src="assets/js/gsap.min.js"></script>
+    <script src="assets/js/magiccursor.js"></script>
     <!-- Text Effect js file -->
-    <script src="js/SplitText.js"></script>
-    <script src="js/ScrollTrigger.min.js"></script>
+    <script src="assets/js/SplitText.js"></script>
+    <script src="assets/js/ScrollTrigger.min.js"></script>
     <!-- YTPlayer js File -->
-    <script src="js/jquery.mb.YTPlayer.min.js"></script>
+    <script src="assets/js/jquery.mb.YTPlayer.min.js"></script>
     <!-- Wow js file -->
-    <script src="js/wow.js"></script>
+    <script src="assets/js/wow.js"></script>
     <!-- Main Custom js file -->
-    <script src="js/function.js"></script>
-	<script src="../../assets/js/theme-panel.js"></script>
+    <script src="assets/js/function.js"></script>
+	<!-- <script src="../../assets/js/theme-panel.js"></script> -->
 </body>
 
 </html>
