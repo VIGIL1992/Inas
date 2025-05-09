@@ -89,7 +89,7 @@
                 
                 <div class="col-lg-6 footer-contact-info">
                     <!-- Contact Information Start -->
-                    <div class="contact-information">
+                    <div class="contact-information pb-4">
                         <!-- Contact Info Item Start -->
                         <div class="contact-info-item wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
                             <!-- Contact Info Contact Start -->
@@ -147,14 +147,6 @@
 
                             <!-- Contact Info Body Start -->
                             <div class="contact-info-body">
-                                <!-- <div class="footer-social-links">
-                                    <ul>
-                                        <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                        <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                        <li><a href="https://www.instagram.com/inas.life.healing?igsh=MWJkMHZzb2hnZHl4cw==" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
-                                    </ul>
-                                </div> -->
                                 <div class="icon-box">
                                     <img src="assets/images/instagram.svg" alt="instagram">
                                 </div>
@@ -166,6 +158,11 @@
                             <!-- Contact Info Body End -->
                         </div>
                         <!-- Contact Info Item End -->
+
+                        <div class="contact-info-item wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
+                            <img src="assets/images/tabby.png" alt="tabby">
+                        </div>
+
                     </div>
                     <!-- Contact Information End -->
                 </div>
